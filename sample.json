@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "username": "billy",
+    "details": {
+      "hair": "red",
+      "eyes": "black",
+      "stench": "bad"
+    },
+    "name": {
+      "first": "billy",
+      "last": "something"
+    }
+  },
+  {
+    "id": 2,
+    "username": "charlie",
+    "details": {
+      "hair": "green",
+      "eyes": "none",
+      "stench": "really good"
+    },
+    "name": {
+      "first": "charlie",
+      "last": "something_else"
+    }
+  },
+  {
+    "id": 3,
+    "username": "tina",
+    "details": {
+      "hair": "bald",
+      "eyes": "four of them",
+      "stench": "scentless"
+    },
+    "name": {
+      "first": "tina",
+      "last": "creativewordhere"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+    "name": "jamesskinner12/formatter",
+    "description": "Useful toolset for interacting with deeply nested datasets",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JamesSkinner12\\Formatter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jamesskinner12",
+            "email": "jameswskinner12@gmail.com"
+        }
+    ],
+    "require": {}
+}
